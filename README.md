@@ -1,2 +1,6 @@
 # dotfiles
-Custom configuration files for a Cmder, Cygwin, mintty, Zsh based terminal running in Windows 10.
+Custom configuration files for a Cygwin, mintty, Zsh based command-line interface running in Windows 10.
+
+## Prerequisites
+vim
+oh-my-zsh
