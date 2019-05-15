@@ -16,7 +16,6 @@ source $HOME/.shell_prompt.sh
 
 # Aliases
 
-alias h.="cygstart --action=runas ~/hideDotfiles.bat"
 alias zshcfg="vim ~/.zshrc"
 alias vimcfg="vim ~/.vimrc"
 
